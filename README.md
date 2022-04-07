@@ -1,2 +1,3 @@
 # data-mining
-My repository for the Data Mining class.
+
+This repository is being built during my Data Mining classes at UFJF.
