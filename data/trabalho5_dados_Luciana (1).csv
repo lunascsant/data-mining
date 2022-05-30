@@ -1,0 +1,1565 @@
+preco_compra,custo_manutencao,num_portas,num_pessoas,tam_portamalas,seguranca,aceitacao
+baixa,baixa,4,4,media,alta,boa
+media,baixa,5 ou mais,2,media,media,ruim
+baixa,baixa,3, mais,pequeno,alta,boa
+media,muito alta,5 ou mais,2,grande,media,ruim
+media,muito alta,5 ou mais, mais,media,alta,boa
+muito alta,media,3,4,media,media,ruim
+alta,baixa,3,2,grande,baixa,ruim
+media,alta,3, mais,media,media,boa
+alta,media,2,4,pequeno,alta,boa
+media,muito alta,2,4,pequeno,alta,boa
+media,alta,3, mais,pequeno,baixa,ruim
+baixa,baixa,5 ou mais,2,media,media,ruim
+baixa,baixa,4,2,pequeno,baixa,ruim
+media,muito alta,3, mais,grande,alta,boa
+media,media,4,4,pequeno,baixa,ruim
+baixa,alta,3,4,grande,baixa,ruim
+alta,muito alta,3, mais,media,baixa,ruim
+baixa,baixa,4,4,pequeno,media,boa
+alta,alta,4,4,pequeno,alta,boa
+baixa,alta,3,4,grande,media,boa
+muito alta,baixa,4, mais,pequeno,alta,boa
+baixa,media,2,4,grande,media,boa
+baixa,media,3, mais,media,alta,boa
+muito alta,baixa,2,4,media,media,ruim
+baixa,alta,5 ou mais,4,media,media,boa
+alta,media,2,4,media,alta,boa
+alta,baixa,4, mais,grande,baixa,ruim
+muito alta,media,3,4,grande,baixa,ruim
+baixa,muito alta,3,4,grande,alta,boa
+alta,alta,5 ou mais, mais,pequeno,alta,boa
+alta,baixa,5 ou mais, mais,media,baixa,ruim
+baixa,media,5 ou mais,4,media,baixa,ruim
+media,muito alta,2,2,grande,alta,ruim
+alta,alta,5 ou mais,2,pequeno,media,ruim
+baixa,baixa,2,4,media,media,boa
+muito alta,baixa,5 ou mais,2,grande,alta,ruim
+baixa,baixa,2, mais,media,media,boa
+media,media,5 ou mais,4,grande,baixa,ruim
+alta,muito alta,4, mais,media,baixa,ruim
+alta,baixa,4, mais,pequeno,alta,boa
+alta,muito alta,5 ou mais,2,grande,baixa,ruim
+media,alta,3,4,grande,alta,boa
+media,baixa,2,2,grande,media,ruim
+baixa,media,4,2,media,baixa,ruim
+muito alta,baixa,4,2,pequeno,media,ruim
+baixa,muito alta,4,4,pequeno,baixa,ruim
+muito alta,alta,4,4,media,alta,ruim
+media,alta,4, mais,pequeno,baixa,ruim
+alta,baixa,5 ou mais, mais,grande,media,boa
+alta,alta,2, mais,media,baixa,ruim
+baixa,alta,2, mais,grande,media,boa
+muito alta,baixa,4,2,media,alta,ruim
+baixa,media,2,4,media,baixa,ruim
+baixa,media,3, mais,grande,media,boa
+baixa,media,4, mais,grande,baixa,ruim
+media,alta,3, mais,grande,media,boa
+alta,media,4,2,pequeno,alta,ruim
+media,alta,3,2,pequeno,alta,ruim
+muito alta,media,4,2,media,media,ruim
+baixa,muito alta,5 ou mais, mais,pequeno,media,ruim
+baixa,baixa,5 ou mais,2,pequeno,baixa,ruim
+muito alta,alta,4, mais,media,media,ruim
+muito alta,alta,4,2,media,baixa,ruim
+baixa,baixa,5 ou mais,4,pequeno,baixa,ruim
+alta,alta,2,2,media,alta,ruim
+muito alta,alta,2,2,media,alta,ruim
+media,alta,3, mais,grande,alta,boa
+muito alta,alta,2,4,pequeno,baixa,ruim
+media,muito alta,2, mais,media,alta,boa
+media,alta,2, mais,grande,baixa,ruim
+baixa,baixa,2,4,grande,baixa,ruim
+alta,media,5 ou mais,2,pequeno,alta,ruim
+alta,muito alta,4, mais,grande,media,ruim
+alta,baixa,5 ou mais,4,pequeno,alta,boa
+baixa,baixa,4, mais,media,media,boa
+media,muito alta,3, mais,media,baixa,ruim
+media,alta,3,4,pequeno,alta,boa
+muito alta,media,4,2,media,media,ruim
+muito alta,alta,4, mais,media,baixa,ruim
+media,muito alta,2,2,pequeno,baixa,ruim
+media,baixa,4,2,media,alta,ruim
+muito alta,alta,3,2,grande,baixa,ruim
+baixa,alta,3,4,media,alta,boa
+baixa,alta,3,2,grande,media,ruim
+baixa,media,4, mais,pequeno,baixa,ruim
+baixa,muito alta,2,4,grande,alta,boa
+muito alta,media,5 ou mais,4,pequeno,alta,boa
+alta,muito alta,4,4,pequeno,alta,ruim
+alta,muito alta,4, mais,media,media,ruim
+alta,media,5 ou mais, mais,grande,media,boa
+muito alta,muito alta,2,2,pequeno,alta,ruim
+media,media,5 ou mais, mais,pequeno,media,boa
+muito alta,muito alta,3,4,pequeno,baixa,ruim
+alta,baixa,5 ou mais, mais,media,baixa,ruim
+alta,media,3,4,pequeno,baixa,ruim
+muito alta,alta,4,4,media,alta,ruim
+media,muito alta,5 ou mais, mais,grande,media,boa
+muito alta,alta,4, mais,pequeno,alta,ruim
+baixa,media,2,2,grande,alta,ruim
+alta,muito alta,3, mais,grande,media,ruim
+baixa,baixa,2,2,grande,media,ruim
+alta,muito alta,4,4,pequeno,alta,ruim
+muito alta,media,4,2,grande,media,ruim
+alta,alta,5 ou mais,2,media,media,ruim
+baixa,baixa,2, mais,pequeno,alta,ruim
+muito alta,media,4, mais,grande,media,boa
+muito alta,media,4,4,grande,baixa,ruim
+media,media,5 ou mais, mais,media,alta,boa
+baixa,baixa,5 ou mais,4,pequeno,alta,boa
+media,alta,4,2,grande,media,ruim
+media,alta,5 ou mais,2,media,media,ruim
+baixa,media,2,2,grande,media,ruim
+alta,muito alta,4,4,grande,alta,ruim
+alta,muito alta,2,4,media,baixa,ruim
+alta,media,4, mais,grande,alta,boa
+baixa,muito alta,3,4,media,baixa,ruim
+muito alta,media,3, mais,grande,baixa,ruim
+media,baixa,3, mais,media,baixa,ruim
+media,muito alta,3,4,grande,baixa,ruim
+muito alta,baixa,3,4,grande,alta,boa
+muito alta,muito alta,4, mais,media,media,ruim
+alta,baixa,4, mais,grande,alta,boa
+baixa,muito alta,3,2,pequeno,media,ruim
+muito alta,muito alta,3,4,grande,alta,ruim
+media,alta,3, mais,pequeno,alta,boa
+baixa,muito alta,2,2,media,baixa,ruim
+media,muito alta,3, mais,media,baixa,ruim
+muito alta,alta,2,4,media,baixa,ruim
+alta,media,5 ou mais,4,pequeno,baixa,ruim
+baixa,baixa,5 ou mais,2,pequeno,alta,ruim
+media,baixa,2,4,media,alta,boa
+muito alta,muito alta,3,2,grande,alta,ruim
+media,baixa,2,4,pequeno,baixa,ruim
+muito alta,media,2, mais,grande,alta,boa
+muito alta,muito alta,3, mais,grande,media,ruim
+media,baixa,5 ou mais,4,media,baixa,ruim
+media,alta,4,2,pequeno,baixa,ruim
+alta,muito alta,3, mais,grande,baixa,ruim
+media,media,5 ou mais,4,pequeno,alta,boa
+muito alta,muito alta,4,2,grande,alta,ruim
+media,alta,4, mais,pequeno,alta,boa
+alta,muito alta,3,4,grande,alta,ruim
+media,alta,3,2,media,media,ruim
+alta,alta,5 ou mais, mais,grande,alta,boa
+alta,muito alta,2,4,pequeno,baixa,ruim
+baixa,alta,5 ou mais, mais,pequeno,alta,boa
+media,muito alta,4, mais,media,baixa,ruim
+alta,alta,2,2,media,media,ruim
+media,baixa,5 ou mais,2,grande,media,ruim
+baixa,baixa,2,2,grande,alta,ruim
+alta,baixa,4, mais,pequeno,baixa,ruim
+alta,baixa,3,4,media,baixa,ruim
+muito alta,media,5 ou mais,4,media,baixa,ruim
+muito alta,baixa,3,4,media,baixa,ruim
+alta,muito alta,5 ou mais,2,grande,media,ruim
+alta,baixa,3,2,media,alta,ruim
+alta,baixa,2, mais,pequeno,alta,ruim
+baixa,baixa,4,4,media,alta,boa
+media,alta,2,2,pequeno,alta,ruim
+baixa,media,5 ou mais, mais,pequeno,media,boa
+baixa,media,3,4,grande,media,boa
+muito alta,muito alta,5 ou mais, mais,pequeno,media,ruim
+muito alta,muito alta,2, mais,grande,alta,ruim
+alta,media,3,4,grande,baixa,ruim
+muito alta,muito alta,4,2,grande,baixa,ruim
+muito alta,alta,2, mais,grande,media,ruim
+muito alta,alta,5 ou mais, mais,media,alta,ruim
+alta,muito alta,4,4,grande,alta,ruim
+alta,muito alta,4,2,media,baixa,ruim
+baixa,baixa,2, mais,media,media,boa
+baixa,muito alta,4,4,pequeno,alta,boa
+media,alta,4,2,grande,media,ruim
+alta,alta,2,2,media,media,ruim
+media,media,5 ou mais,2,media,media,ruim
+baixa,media,2, mais,media,media,boa
+muito alta,muito alta,3,4,grande,alta,ruim
+baixa,media,5 ou mais,4,media,alta,boa
+alta,baixa,5 ou mais, mais,media,alta,boa
+baixa,muito alta,2, mais,pequeno,alta,ruim
+muito alta,alta,5 ou mais,4,pequeno,alta,ruim
+alta,muito alta,4, mais,media,media,ruim
+media,alta,4, mais,grande,baixa,ruim
+muito alta,baixa,5 ou mais,2,media,baixa,ruim
+media,media,5 ou mais,4,pequeno,alta,boa
+media,media,2,2,grande,baixa,ruim
+muito alta,alta,4,4,pequeno,media,ruim
+baixa,baixa,4, mais,pequeno,alta,boa
+alta,media,2,4,pequeno,baixa,ruim
+muito alta,baixa,3, mais,media,baixa,ruim
+muito alta,muito alta,3,2,media,alta,ruim
+baixa,baixa,5 ou mais,4,grande,media,boa
+alta,alta,4,2,media,media,ruim
+alta,alta,2,4,pequeno,alta,boa
+alta,baixa,4, mais,pequeno,baixa,ruim
+muito alta,muito alta,3,2,media,alta,ruim
+baixa,alta,5 ou mais,4,pequeno,media,boa
+muito alta,baixa,2, mais,pequeno,alta,ruim
+baixa,alta,2,2,pequeno,baixa,ruim
+muito alta,baixa,2,4,grande,alta,boa
+baixa,muito alta,3,2,grande,alta,ruim
+media,media,3,2,grande,media,ruim
+muito alta,alta,5 ou mais, mais,pequeno,baixa,ruim
+muito alta,baixa,2, mais,grande,baixa,ruim
+baixa,media,2,2,pequeno,media,ruim
+alta,baixa,2,2,grande,alta,ruim
+muito alta,muito alta,2,4,grande,alta,ruim
+alta,muito alta,2,2,media,baixa,ruim
+alta,baixa,5 ou mais,2,pequeno,alta,ruim
+muito alta,muito alta,2,4,media,media,ruim
+alta,alta,4,4,media,media,boa
+media,muito alta,5 ou mais, mais,pequeno,media,ruim
+media,alta,3, mais,grande,baixa,ruim
+alta,media,5 ou mais,2,media,alta,ruim
+muito alta,muito alta,4,4,pequeno,baixa,ruim
+baixa,muito alta,2, mais,grande,media,boa
+muito alta,muito alta,2,4,media,media,ruim
+baixa,baixa,2,4,media,baixa,ruim
+alta,media,4, mais,grande,alta,boa
+media,media,2,2,media,media,ruim
+baixa,alta,3,4,media,media,boa
+alta,media,3, mais,pequeno,alta,boa
+muito alta,media,2, mais,pequeno,baixa,ruim
+baixa,baixa,5 ou mais, mais,pequeno,media,boa
+media,baixa,3,2,grande,media,ruim
+baixa,muito alta,4,4,grande,alta,boa
+alta,muito alta,3,4,grande,alta,ruim
+muito alta,muito alta,2,4,media,baixa,ruim
+media,muito alta,4,2,grande,baixa,ruim
+muito alta,baixa,3,4,grande,media,boa
+baixa,baixa,2, mais,grande,alta,boa
+muito alta,baixa,4,4,grande,media,boa
+media,muito alta,3,4,grande,media,boa
+muito alta,muito alta,3,2,grande,alta,ruim
+muito alta,alta,5 ou mais, mais,grande,baixa,ruim
+muito alta,media,2,2,media,media,ruim
+alta,baixa,4,2,grande,media,ruim
+media,media,2,4,grande,media,boa
+muito alta,media,2,2,pequeno,media,ruim
+media,alta,5 ou mais,2,media,alta,ruim
+media,baixa,5 ou mais, mais,media,media,boa
+alta,alta,4,2,grande,media,ruim
+baixa,media,2,4,grande,media,boa
+baixa,alta,5 ou mais,4,media,baixa,ruim
+alta,media,3, mais,grande,baixa,ruim
+media,muito alta,3,4,pequeno,baixa,ruim
+baixa,baixa,2,2,pequeno,media,ruim
+media,baixa,4,2,media,baixa,ruim
+media,media,3,4,pequeno,alta,boa
+baixa,baixa,5 ou mais,2,grande,alta,ruim
+media,muito alta,5 ou mais, mais,media,media,boa
+media,muito alta,2,2,pequeno,media,ruim
+muito alta,media,2,4,pequeno,media,ruim
+muito alta,alta,3,4,media,alta,ruim
+media,media,5 ou mais, mais,grande,media,boa
+baixa,media,3, mais,grande,alta,boa
+muito alta,baixa,5 ou mais, mais,media,baixa,ruim
+alta,baixa,2, mais,pequeno,media,ruim
+baixa,baixa,4, mais,pequeno,alta,boa
+baixa,muito alta,4,2,grande,baixa,ruim
+baixa,media,2,4,media,alta,boa
+media,baixa,2,2,media,baixa,ruim
+media,muito alta,5 ou mais,2,pequeno,baixa,ruim
+muito alta,media,3,2,pequeno,alta,ruim
+media,baixa,4,4,media,media,boa
+baixa,baixa,5 ou mais,2,grande,media,ruim
+muito alta,media,4,2,grande,media,ruim
+muito alta,muito alta,5 ou mais,4,media,media,ruim
+alta,alta,2,4,media,media,ruim
+alta,media,5 ou mais,2,media,baixa,ruim
+media,alta,5 ou mais,2,media,alta,ruim
+alta,media,2,2,grande,media,ruim
+muito alta,media,4,2,grande,alta,ruim
+muito alta,media,4, mais,media,media,boa
+baixa,baixa,2,2,grande,baixa,ruim
+alta,alta,2, mais,grande,baixa,ruim
+media,baixa,5 ou mais, mais,pequeno,alta,boa
+muito alta,baixa,4, mais,grande,media,boa
+muito alta,baixa,2,2,pequeno,media,ruim
+alta,muito alta,2,2,grande,baixa,ruim
+muito alta,muito alta,2, mais,grande,alta,ruim
+baixa,baixa,4, mais,grande,media,boa
+alta,muito alta,2,2,media,media,ruim
+muito alta,media,5 ou mais,2,pequeno,alta,ruim
+media,muito alta,2, mais,media,alta,boa
+baixa,baixa,4,4,media,media,boa
+alta,muito alta,2,2,pequeno,alta,ruim
+muito alta,media,5 ou mais, mais,media,alta,boa
+alta,muito alta,2, mais,media,alta,ruim
+alta,muito alta,3,4,grande,baixa,ruim
+media,media,5 ou mais, mais,media,alta,boa
+baixa,media,5 ou mais, mais,media,baixa,ruim
+alta,alta,5 ou mais,4,media,media,boa
+muito alta,media,4,4,media,baixa,ruim
+muito alta,media,3,4,grande,media,boa
+muito alta,media,4,2,grande,media,ruim
+alta,alta,5 ou mais,2,pequeno,media,ruim
+baixa,media,2,4,media,baixa,ruim
+alta,alta,5 ou mais,4,media,media,boa
+baixa,media,2,2,media,alta,ruim
+alta,baixa,5 ou mais,2,grande,media,ruim
+alta,baixa,3, mais,pequeno,media,ruim
+alta,baixa,5 ou mais, mais,media,alta,boa
+media,alta,4,2,media,media,ruim
+alta,media,2,4,pequeno,alta,boa
+baixa,muito alta,3,4,grande,alta,boa
+media,baixa,3,4,media,alta,boa
+baixa,muito alta,5 ou mais, mais,media,baixa,ruim
+alta,baixa,2,4,pequeno,alta,boa
+alta,alta,5 ou mais,2,pequeno,baixa,ruim
+baixa,media,4,4,pequeno,baixa,ruim
+alta,alta,3,4,pequeno,baixa,ruim
+baixa,media,5 ou mais,2,media,baixa,ruim
+baixa,media,3,2,pequeno,media,ruim
+media,alta,5 ou mais,4,media,media,boa
+alta,baixa,2,2,pequeno,media,ruim
+media,baixa,4,4,pequeno,media,boa
+muito alta,alta,2,4,grande,alta,ruim
+alta,baixa,4,4,grande,media,boa
+baixa,alta,2, mais,grande,media,boa
+alta,media,5 ou mais, mais,pequeno,media,ruim
+muito alta,media,3,4,media,media,ruim
+alta,alta,2,2,grande,media,ruim
+muito alta,muito alta,4, mais,media,alta,ruim
+media,alta,4, mais,pequeno,media,ruim
+alta,alta,3,4,media,media,ruim
+media,alta,2, mais,media,media,ruim
+alta,alta,4,4,pequeno,alta,boa
+media,media,2,4,media,media,boa
+media,media,4,4,grande,baixa,ruim
+baixa,muito alta,5 ou mais,4,grande,media,boa
+baixa,alta,3, mais,pequeno,baixa,ruim
+media,muito alta,5 ou mais, mais,media,baixa,ruim
+media,baixa,4,2,pequeno,media,ruim
+alta,media,2, mais,grande,baixa,ruim
+baixa,media,5 ou mais,2,grande,alta,ruim
+muito alta,media,2,2,grande,media,ruim
+baixa,alta,4, mais,media,baixa,ruim
+alta,muito alta,3, mais,media,baixa,ruim
+media,alta,2,4,pequeno,alta,boa
+media,baixa,5 ou mais,2,grande,alta,ruim
+muito alta,media,4,4,pequeno,alta,boa
+alta,alta,5 ou mais,2,grande,baixa,ruim
+alta,muito alta,5 ou mais, mais,grande,media,ruim
+baixa,alta,5 ou mais,2,pequeno,media,ruim
+baixa,alta,5 ou mais, mais,grande,baixa,ruim
+baixa,baixa,4,4,media,baixa,ruim
+alta,baixa,5 ou mais,2,grande,media,ruim
+muito alta,muito alta,2,4,pequeno,alta,ruim
+alta,baixa,3,4,grande,baixa,ruim
+baixa,muito alta,4,4,pequeno,baixa,ruim
+media,baixa,5 ou mais,2,pequeno,baixa,ruim
+alta,alta,3,4,grande,baixa,ruim
+muito alta,media,5 ou mais,2,media,alta,ruim
+alta,alta,2, mais,pequeno,media,ruim
+media,baixa,5 ou mais,2,media,baixa,ruim
+media,media,2, mais,pequeno,media,ruim
+baixa,media,3,2,pequeno,alta,ruim
+alta,muito alta,3,4,pequeno,alta,ruim
+alta,muito alta,3,2,media,media,ruim
+muito alta,baixa,3, mais,grande,baixa,ruim
+media,baixa,3,4,grande,alta,boa
+baixa,alta,4,4,pequeno,media,boa
+muito alta,baixa,5 ou mais,4,media,media,boa
+media,muito alta,5 ou mais,4,grande,media,boa
+media,alta,5 ou mais,4,pequeno,baixa,ruim
+media,alta,5 ou mais, mais,media,baixa,ruim
+media,baixa,2, mais,media,alta,boa
+baixa,muito alta,2,2,pequeno,alta,ruim
+alta,baixa,3,4,media,alta,boa
+media,baixa,3,2,pequeno,baixa,ruim
+alta,baixa,3,2,grande,baixa,ruim
+media,media,5 ou mais,4,grande,alta,boa
+muito alta,baixa,4, mais,pequeno,baixa,ruim
+muito alta,media,4,2,media,baixa,ruim
+media,muito alta,4,2,grande,alta,ruim
+baixa,muito alta,2, mais,pequeno,alta,ruim
+baixa,media,3,2,media,media,ruim
+media,media,2, mais,pequeno,baixa,ruim
+alta,baixa,3,4,pequeno,media,ruim
+baixa,baixa,2,4,grande,baixa,ruim
+muito alta,baixa,3, mais,pequeno,baixa,ruim
+baixa,alta,5 ou mais, mais,media,baixa,ruim
+alta,media,3,4,grande,media,boa
+alta,muito alta,5 ou mais,2,pequeno,baixa,ruim
+media,baixa,5 ou mais,2,pequeno,baixa,ruim
+media,media,3,2,pequeno,media,ruim
+muito alta,alta,2,2,pequeno,alta,ruim
+alta,muito alta,4,2,grande,alta,ruim
+media,media,4,4,media,baixa,ruim
+baixa,media,5 ou mais, mais,grande,media,boa
+media,media,5 ou mais,2,media,baixa,ruim
+muito alta,alta,5 ou mais,2,grande,media,ruim
+baixa,baixa,3,2,pequeno,alta,ruim
+baixa,baixa,5 ou mais, mais,grande,media,boa
+alta,baixa,3, mais,pequeno,media,ruim
+muito alta,media,5 ou mais,2,grande,alta,ruim
+alta,baixa,4,2,pequeno,baixa,ruim
+muito alta,media,3,4,grande,alta,boa
+muito alta,alta,3,4,media,alta,ruim
+alta,muito alta,5 ou mais, mais,pequeno,baixa,ruim
+baixa,media,2, mais,grande,media,boa
+baixa,baixa,4,2,grande,alta,ruim
+alta,muito alta,4,2,pequeno,baixa,ruim
+muito alta,baixa,2,2,pequeno,media,ruim
+muito alta,alta,4, mais,media,baixa,ruim
+alta,muito alta,2,2,pequeno,media,ruim
+muito alta,media,2,2,media,baixa,ruim
+muito alta,baixa,2,2,grande,media,ruim
+alta,baixa,2,4,pequeno,alta,boa
+baixa,media,3,2,pequeno,baixa,ruim
+alta,media,4,4,media,baixa,ruim
+media,media,3,2,grande,baixa,ruim
+muito alta,media,4,2,media,alta,ruim
+alta,muito alta,4,4,pequeno,media,ruim
+muito alta,alta,4,2,media,alta,ruim
+muito alta,muito alta,5 ou mais,4,grande,alta,ruim
+media,baixa,5 ou mais,4,grande,alta,boa
+muito alta,muito alta,5 ou mais,4,media,media,ruim
+baixa,muito alta,3, mais,pequeno,media,ruim
+alta,media,2, mais,pequeno,baixa,ruim
+muito alta,media,2, mais,grande,baixa,ruim
+baixa,muito alta,5 ou mais, mais,grande,alta,boa
+baixa,muito alta,5 ou mais,2,pequeno,baixa,ruim
+alta,alta,5 ou mais, mais,pequeno,media,ruim
+media,alta,5 ou mais,2,grande,media,ruim
+muito alta,media,5 ou mais,4,media,media,boa
+baixa,muito alta,4,2,grande,alta,ruim
+media,baixa,2,2,pequeno,media,ruim
+media,alta,2, mais,grande,alta,boa
+alta,media,3,2,pequeno,media,ruim
+baixa,muito alta,4, mais,pequeno,media,ruim
+muito alta,muito alta,2, mais,media,alta,ruim
+muito alta,baixa,3,4,media,alta,boa
+media,alta,2, mais,pequeno,alta,ruim
+baixa,muito alta,4,4,media,alta,boa
+baixa,alta,2, mais,media,media,boa
+media,baixa,3,4,pequeno,alta,boa
+baixa,muito alta,4, mais,pequeno,media,ruim
+baixa,muito alta,3,2,pequeno,media,ruim
+media,baixa,4,2,pequeno,media,ruim
+baixa,alta,4, mais,grande,alta,boa
+alta,media,2,2,media,baixa,ruim
+media,alta,3,2,grande,alta,ruim
+muito alta,media,4,4,pequeno,media,ruim
+alta,baixa,2,4,pequeno,baixa,ruim
+muito alta,muito alta,5 ou mais,4,pequeno,baixa,ruim
+muito alta,muito alta,5 ou mais,2,grande,media,ruim
+baixa,muito alta,4, mais,media,media,boa
+baixa,media,4, mais,grande,alta,boa
+baixa,alta,2,2,media,media,ruim
+muito alta,media,4,2,grande,baixa,ruim
+media,media,5 ou mais,2,pequeno,media,ruim
+baixa,muito alta,5 ou mais,2,grande,alta,ruim
+alta,baixa,2,4,grande,alta,boa
+baixa,muito alta,3,4,grande,media,boa
+media,muito alta,2,4,media,alta,boa
+alta,alta,4,4,pequeno,media,ruim
+muito alta,muito alta,2,4,pequeno,baixa,ruim
+baixa,baixa,5 ou mais,4,grande,alta,boa
+alta,media,3, mais,grande,alta,boa
+muito alta,muito alta,5 ou mais,2,media,baixa,ruim
+media,baixa,2,2,pequeno,alta,ruim
+baixa,media,2,2,media,media,ruim
+baixa,muito alta,5 ou mais, mais,grande,alta,boa
+alta,muito alta,3,2,grande,alta,ruim
+muito alta,muito alta,5 ou mais,4,grande,baixa,ruim
+alta,alta,5 ou mais,4,pequeno,baixa,ruim
+baixa,media,5 ou mais, mais,grande,alta,boa
+baixa,media,4,2,media,baixa,ruim
+media,baixa,3,4,media,baixa,ruim
+media,baixa,4,2,media,alta,ruim
+alta,baixa,4,2,media,media,ruim
+muito alta,baixa,5 ou mais, mais,grande,media,boa
+muito alta,media,2, mais,grande,media,boa
+alta,media,2,4,media,media,ruim
+muito alta,media,4,4,pequeno,alta,boa
+alta,muito alta,3, mais,grande,baixa,ruim
+baixa,baixa,2,4,media,baixa,ruim
+media,baixa,5 ou mais, mais,media,alta,boa
+muito alta,muito alta,5 ou mais, mais,media,alta,ruim
+baixa,alta,4, mais,grande,media,boa
+baixa,baixa,3,2,grande,baixa,ruim
+muito alta,baixa,3,4,media,media,ruim
+alta,media,5 ou mais,4,pequeno,media,ruim
+baixa,baixa,5 ou mais,4,grande,media,boa
+baixa,media,3, mais,grande,alta,boa
+muito alta,baixa,2, mais,pequeno,alta,ruim
+baixa,media,2,2,pequeno,alta,ruim
+alta,alta,5 ou mais, mais,grande,alta,boa
+muito alta,baixa,4, mais,grande,alta,boa
+alta,muito alta,3, mais,grande,baixa,ruim
+alta,muito alta,2, mais,pequeno,media,ruim
+media,muito alta,4,2,pequeno,baixa,ruim
+muito alta,media,2, mais,grande,media,boa
+alta,muito alta,5 ou mais, mais,media,media,ruim
+media,baixa,5 ou mais, mais,pequeno,alta,boa
+muito alta,muito alta,2,4,grande,baixa,ruim
+muito alta,alta,3,2,grande,baixa,ruim
+media,muito alta,2,4,media,alta,boa
+media,media,5 ou mais, mais,pequeno,media,boa
+muito alta,muito alta,5 ou mais,2,pequeno,media,ruim
+baixa,alta,3,2,media,alta,ruim
+baixa,media,2,2,grande,alta,ruim
+muito alta,muito alta,4,4,grande,alta,ruim
+muito alta,alta,2,2,media,alta,ruim
+alta,muito alta,2, mais,media,baixa,ruim
+media,media,2,4,pequeno,media,boa
+muito alta,media,4,4,grande,media,boa
+alta,media,4,2,media,baixa,ruim
+muito alta,media,4,2,media,alta,ruim
+baixa,alta,4,2,grande,alta,ruim
+muito alta,alta,4,4,pequeno,baixa,ruim
+muito alta,alta,3, mais,media,baixa,ruim
+muito alta,media,5 ou mais,4,pequeno,media,ruim
+muito alta,media,2,2,pequeno,alta,ruim
+baixa,alta,3,4,grande,alta,boa
+media,baixa,3,4,grande,alta,boa
+media,baixa,4,2,media,media,ruim
+baixa,muito alta,2,2,grande,baixa,ruim
+muito alta,muito alta,5 ou mais,2,grande,media,ruim
+muito alta,baixa,5 ou mais,4,media,alta,boa
+alta,alta,4,2,media,alta,ruim
+muito alta,media,2,4,pequeno,baixa,ruim
+media,baixa,5 ou mais,4,pequeno,baixa,ruim
+alta,alta,3,2,media,alta,ruim
+muito alta,muito alta,2, mais,pequeno,baixa,ruim
+alta,alta,3,2,grande,alta,ruim
+alta,alta,2,4,grande,media,boa
+muito alta,media,5 ou mais,2,pequeno,media,ruim
+media,alta,4, mais,media,media,boa
+alta,media,5 ou mais,2,grande,baixa,ruim
+alta,baixa,4,2,pequeno,alta,ruim
+baixa,baixa,4, mais,media,media,boa
+muito alta,media,3,4,grande,alta,boa
+alta,media,3,2,media,alta,ruim
+baixa,media,5 ou mais,4,grande,baixa,ruim
+media,alta,5 ou mais, mais,grande,media,boa
+media,alta,5 ou mais, mais,media,alta,boa
+muito alta,baixa,3,4,grande,baixa,ruim
+alta,baixa,2, mais,media,alta,boa
+alta,media,3,4,grande,media,boa
+baixa,muito alta,4,2,grande,baixa,ruim
+muito alta,muito alta,3,4,grande,alta,ruim
+media,alta,2, mais,grande,baixa,ruim
+muito alta,media,3,4,pequeno,media,ruim
+alta,muito alta,2,2,pequeno,baixa,ruim
+alta,muito alta,4,4,grande,baixa,ruim
+media,muito alta,4,2,media,media,ruim
+alta,muito alta,5 ou mais,4,grande,alta,ruim
+media,media,5 ou mais, mais,media,baixa,ruim
+alta,muito alta,4, mais,grande,baixa,ruim
+media,baixa,4, mais,grande,alta,boa
+media,media,5 ou mais, mais,grande,baixa,ruim
+muito alta,media,4,2,grande,media,ruim
+alta,muito alta,2, mais,media,baixa,ruim
+alta,muito alta,4,4,grande,baixa,ruim
+media,media,5 ou mais,4,grande,media,boa
+media,alta,3,2,grande,baixa,ruim
+baixa,media,5 ou mais,2,pequeno,alta,ruim
+muito alta,muito alta,3,2,pequeno,alta,ruim
+media,baixa,2,4,pequeno,media,boa
+baixa,alta,4,2,pequeno,alta,ruim
+muito alta,muito alta,3, mais,pequeno,alta,ruim
+media,alta,4, mais,media,alta,boa
+baixa,alta,2,2,pequeno,alta,ruim
+media,media,4,2,pequeno,baixa,ruim
+muito alta,muito alta,3,2,grande,baixa,ruim
+alta,muito alta,3, mais,media,media,ruim
+baixa,media,4, mais,media,media,boa
+alta,media,3, mais,media,baixa,ruim
+alta,media,2,2,media,alta,ruim
+baixa,media,4, mais,grande,media,boa
+baixa,media,3, mais,media,baixa,ruim
+media,media,4, mais,grande,media,boa
+baixa,alta,3, mais,media,alta,boa
+alta,alta,3,2,pequeno,alta,ruim
+muito alta,muito alta,2, mais,pequeno,alta,ruim
+alta,media,2,4,pequeno,alta,boa
+media,baixa,5 ou mais,2,media,alta,ruim
+media,alta,5 ou mais, mais,pequeno,alta,boa
+baixa,alta,3,2,grande,baixa,ruim
+baixa,muito alta,4,4,grande,media,boa
+media,alta,4,4,media,media,boa
+media,muito alta,4, mais,pequeno,baixa,ruim
+media,media,2, mais,media,alta,boa
+baixa,media,2,2,media,baixa,ruim
+alta,muito alta,3, mais,media,baixa,ruim
+baixa,muito alta,3,4,pequeno,alta,boa
+muito alta,alta,3, mais,grande,alta,ruim
+baixa,baixa,2,4,pequeno,baixa,ruim
+alta,baixa,2,2,grande,baixa,ruim
+alta,muito alta,5 ou mais, mais,pequeno,media,ruim
+alta,media,4, mais,media,media,boa
+baixa,media,2,4,grande,media,boa
+alta,muito alta,5 ou mais,2,grande,baixa,ruim
+alta,media,3,2,media,alta,ruim
+baixa,baixa,4,2,pequeno,media,ruim
+media,muito alta,5 ou mais,2,pequeno,media,ruim
+baixa,alta,3,2,grande,media,ruim
+muito alta,baixa,4, mais,pequeno,media,ruim
+alta,alta,3,4,grande,baixa,ruim
+alta,media,2,2,media,media,ruim
+alta,muito alta,4, mais,grande,baixa,ruim
+muito alta,baixa,4,2,grande,baixa,ruim
+media,muito alta,2,2,media,baixa,ruim
+media,alta,4,2,grande,baixa,ruim
+baixa,muito alta,2,2,pequeno,baixa,ruim
+alta,muito alta,4,4,pequeno,baixa,ruim
+baixa,alta,5 ou mais,2,grande,baixa,ruim
+media,muito alta,4,2,pequeno,alta,ruim
+media,alta,2, mais,media,baixa,ruim
+baixa,muito alta,5 ou mais, mais,pequeno,alta,boa
+baixa,baixa,5 ou mais, mais,media,media,boa
+baixa,muito alta,3,2,grande,media,ruim
+media,alta,5 ou mais,4,pequeno,alta,boa
+muito alta,media,5 ou mais,4,pequeno,media,ruim
+baixa,baixa,5 ou mais,4,media,alta,boa
+media,media,5 ou mais,4,media,baixa,ruim
+alta,media,4, mais,pequeno,alta,boa
+muito alta,alta,5 ou mais,2,pequeno,alta,ruim
+muito alta,baixa,2,2,pequeno,alta,ruim
+alta,media,3,4,grande,baixa,ruim
+muito alta,baixa,4,4,grande,alta,boa
+muito alta,alta,2, mais,media,baixa,ruim
+baixa,muito alta,2,4,media,baixa,ruim
+media,muito alta,4, mais,media,media,boa
+muito alta,media,5 ou mais,4,pequeno,baixa,ruim
+muito alta,media,5 ou mais,4,grande,media,boa
+baixa,alta,5 ou mais, mais,pequeno,media,boa
+media,baixa,5 ou mais, mais,grande,alta,boa
+muito alta,alta,5 ou mais,4,pequeno,alta,ruim
+baixa,muito alta,2,2,media,baixa,ruim
+baixa,muito alta,2,4,grande,alta,boa
+alta,alta,2,2,pequeno,media,ruim
+media,media,4,2,media,media,ruim
+muito alta,muito alta,3,2,pequeno,alta,ruim
+baixa,baixa,3, mais,pequeno,media,boa
+muito alta,media,5 ou mais,2,pequeno,alta,ruim
+muito alta,baixa,5 ou mais,4,media,baixa,ruim
+alta,alta,5 ou mais, mais,grande,baixa,ruim
+baixa,muito alta,2,4,pequeno,alta,boa
+alta,baixa,3, mais,grande,media,boa
+muito alta,media,2, mais,pequeno,baixa,ruim
+alta,alta,5 ou mais, mais,media,media,boa
+muito alta,baixa,3, mais,media,baixa,ruim
+alta,media,5 ou mais,2,pequeno,alta,ruim
+baixa,baixa,5 ou mais,4,media,alta,boa
+media,muito alta,4,4,media,alta,boa
+media,alta,5 ou mais,4,pequeno,baixa,ruim
+muito alta,muito alta,4,4,media,baixa,ruim
+baixa,alta,5 ou mais, mais,grande,media,boa
+alta,baixa,2,4,grande,media,boa
+media,baixa,3, mais,media,baixa,ruim
+alta,alta,2,2,media,alta,ruim
+media,alta,3,2,media,baixa,ruim
+baixa,baixa,4,2,pequeno,alta,ruim
+baixa,media,4,2,media,baixa,ruim
+alta,media,3,2,grande,alta,ruim
+baixa,muito alta,2,4,media,alta,boa
+alta,baixa,4, mais,media,media,boa
+baixa,media,5 ou mais,4,pequeno,media,boa
+muito alta,baixa,2, mais,media,baixa,ruim
+alta,media,2,4,media,alta,boa
+alta,muito alta,4, mais,grande,alta,ruim
+muito alta,baixa,2,2,media,alta,ruim
+muito alta,media,5 ou mais, mais,pequeno,baixa,ruim
+baixa,muito alta,4,2,pequeno,baixa,ruim
+media,alta,5 ou mais, mais,pequeno,alta,boa
+alta,alta,3,2,media,alta,ruim
+media,muito alta,5 ou mais,4,grande,baixa,ruim
+media,muito alta,2,2,pequeno,baixa,ruim
+media,alta,4,4,grande,baixa,ruim
+muito alta,baixa,3,4,media,media,ruim
+alta,media,3, mais,media,baixa,ruim
+media,media,5 ou mais,2,media,alta,ruim
+muito alta,baixa,2,4,grande,media,boa
+alta,baixa,4,2,pequeno,alta,ruim
+alta,baixa,5 ou mais,4,grande,baixa,ruim
+alta,muito alta,3,4,media,alta,ruim
+muito alta,muito alta,3,4,grande,media,ruim
+muito alta,alta,4, mais,media,alta,ruim
+baixa,media,3,4,pequeno,media,boa
+baixa,baixa,5 ou mais,4,grande,alta,boa
+muito alta,baixa,4,4,pequeno,media,ruim
+alta,media,3, mais,grande,media,boa
+muito alta,media,3,4,media,alta,boa
+muito alta,baixa,5 ou mais,2,pequeno,baixa,ruim
+muito alta,muito alta,2, mais,media,baixa,ruim
+media,baixa,4, mais,media,alta,boa
+alta,muito alta,5 ou mais,4,pequeno,alta,ruim
+media,baixa,4,4,media,baixa,ruim
+alta,baixa,4,4,grande,alta,boa
+alta,muito alta,2,2,grande,baixa,ruim
+baixa,media,2,4,media,baixa,ruim
+muito alta,alta,3,4,grande,media,ruim
+media,baixa,4,4,media,media,boa
+muito alta,baixa,2, mais,media,media,ruim
+muito alta,alta,2,4,media,baixa,ruim
+media,media,2,4,pequeno,media,boa
+media,alta,5 ou mais, mais,grande,baixa,ruim
+media,baixa,2,4,grande,alta,boa
+alta,baixa,3, mais,pequeno,alta,boa
+alta,media,3,2,grande,baixa,ruim
+baixa,baixa,3,4,pequeno,baixa,ruim
+alta,media,2, mais,pequeno,alta,ruim
+muito alta,muito alta,4,2,pequeno,alta,ruim
+alta,baixa,3,4,pequeno,alta,boa
+baixa,muito alta,4,4,media,baixa,ruim
+media,baixa,3, mais,grande,baixa,ruim
+baixa,media,4, mais,grande,media,boa
+baixa,alta,4,4,pequeno,baixa,ruim
+muito alta,baixa,4,4,media,baixa,ruim
+muito alta,alta,3, mais,grande,alta,ruim
+alta,media,2, mais,pequeno,baixa,ruim
+muito alta,media,3,2,grande,alta,ruim
+alta,baixa,4, mais,grande,media,boa
+baixa,muito alta,5 ou mais,2,media,baixa,ruim
+baixa,muito alta,4, mais,grande,media,boa
+baixa,muito alta,3, mais,media,alta,boa
+muito alta,muito alta,5 ou mais, mais,grande,media,ruim
+alta,muito alta,3, mais,media,baixa,ruim
+alta,media,2, mais,grande,media,boa
+alta,alta,3, mais,media,media,boa
+media,alta,5 ou mais,2,grande,alta,ruim
+media,media,4,2,pequeno,baixa,ruim
+alta,baixa,4,4,grande,alta,boa
+muito alta,media,5 ou mais,2,grande,alta,ruim
+media,media,5 ou mais, mais,grande,baixa,ruim
+muito alta,baixa,4, mais,media,baixa,ruim
+baixa,muito alta,5 ou mais, mais,pequeno,baixa,ruim
+media,media,2,2,pequeno,baixa,ruim
+baixa,alta,2, mais,media,baixa,ruim
+baixa,muito alta,5 ou mais,4,media,alta,boa
+alta,muito alta,5 ou mais,4,media,baixa,ruim
+alta,alta,3,4,media,media,ruim
+media,muito alta,4,4,pequeno,media,ruim
+alta,alta,5 ou mais,2,grande,media,ruim
+alta,muito alta,5 ou mais, mais,media,baixa,ruim
+media,baixa,3, mais,grande,alta,boa
+baixa,alta,5 ou mais,2,pequeno,baixa,ruim
+baixa,muito alta,3, mais,media,alta,boa
+muito alta,baixa,3, mais,pequeno,baixa,ruim
+media,media,2,2,media,baixa,ruim
+alta,baixa,3,2,pequeno,alta,ruim
+muito alta,muito alta,3, mais,media,media,ruim
+muito alta,media,4,4,grande,media,boa
+baixa,media,5 ou mais,2,media,baixa,ruim
+muito alta,media,2,2,grande,media,ruim
+baixa,media,2,2,grande,baixa,ruim
+baixa,muito alta,3, mais,pequeno,alta,boa
+baixa,muito alta,2,2,grande,alta,ruim
+alta,baixa,3, mais,pequeno,alta,boa
+baixa,alta,3,2,pequeno,alta,ruim
+baixa,muito alta,5 ou mais,4,media,baixa,ruim
+alta,media,5 ou mais,4,media,baixa,ruim
+muito alta,media,2,4,grande,alta,boa
+muito alta,media,4, mais,media,baixa,ruim
+media,muito alta,2, mais,pequeno,baixa,ruim
+media,muito alta,4, mais,media,alta,boa
+media,muito alta,4,2,pequeno,baixa,ruim
+alta,media,5 ou mais, mais,grande,baixa,ruim
+alta,muito alta,3,2,grande,media,ruim
+media,muito alta,2,4,pequeno,baixa,ruim
+media,baixa,4, mais,pequeno,baixa,ruim
+muito alta,media,3,4,pequeno,media,ruim
+alta,media,2,2,media,baixa,ruim
+alta,alta,4, mais,grande,media,boa
+baixa,media,3,4,grande,media,boa
+alta,alta,5 ou mais, mais,media,media,boa
+baixa,baixa,5 ou mais, mais,pequeno,baixa,ruim
+baixa,baixa,3,2,media,media,ruim
+baixa,baixa,4, mais,pequeno,baixa,ruim
+media,muito alta,2, mais,media,alta,boa
+alta,muito alta,3,2,media,baixa,ruim
+baixa,alta,2, mais,media,alta,boa
+baixa,alta,3,4,grande,baixa,ruim
+baixa,alta,2,4,media,baixa,ruim
+media,baixa,2,4,grande,alta,boa
+baixa,baixa,5 ou mais,2,media,alta,ruim
+media,alta,2,2,media,baixa,ruim
+muito alta,muito alta,2,4,media,alta,ruim
+muito alta,media,5 ou mais, mais,media,alta,boa
+baixa,media,3, mais,pequeno,baixa,ruim
+baixa,baixa,3,2,grande,baixa,ruim
+media,muito alta,2,2,media,media,ruim
+muito alta,baixa,4,2,media,alta,ruim
+baixa,baixa,5 ou mais, mais,media,baixa,ruim
+baixa,baixa,5 ou mais, mais,pequeno,media,boa
+baixa,muito alta,2,2,grande,media,ruim
+media,muito alta,3, mais,pequeno,baixa,ruim
+alta,media,3, mais,pequeno,media,ruim
+baixa,muito alta,4,2,grande,media,ruim
+alta,alta,4,4,pequeno,alta,boa
+baixa,baixa,2,4,media,media,boa
+alta,media,2,2,pequeno,alta,ruim
+media,baixa,3, mais,media,baixa,ruim
+muito alta,alta,3, mais,grande,baixa,ruim
+media,baixa,2,4,grande,alta,boa
+muito alta,media,5 ou mais,2,grande,alta,ruim
+alta,media,2,4,media,alta,boa
+muito alta,media,2,2,media,baixa,ruim
+baixa,alta,3,4,grande,baixa,ruim
+alta,media,4, mais,pequeno,media,ruim
+muito alta,media,4, mais,grande,baixa,ruim
+muito alta,media,3, mais,pequeno,baixa,ruim
+muito alta,muito alta,2,4,media,baixa,ruim
+baixa,media,5 ou mais,4,pequeno,media,boa
+alta,muito alta,5 ou mais,4,grande,alta,ruim
+baixa,alta,5 ou mais, mais,pequeno,baixa,ruim
+alta,baixa,2,4,grande,baixa,ruim
+alta,baixa,5 ou mais,4,grande,baixa,ruim
+alta,media,5 ou mais,2,pequeno,alta,ruim
+alta,media,2,4,grande,media,boa
+baixa,alta,4,4,media,baixa,ruim
+media,muito alta,5 ou mais,4,media,media,boa
+muito alta,baixa,4, mais,pequeno,baixa,ruim
+media,alta,3,2,grande,baixa,ruim
+alta,alta,5 ou mais, mais,media,alta,boa
+media,baixa,4,2,grande,alta,ruim
+baixa,alta,2, mais,grande,alta,boa
+baixa,baixa,3,2,pequeno,media,ruim
+muito alta,muito alta,5 ou mais,4,grande,alta,ruim
+muito alta,baixa,2, mais,media,baixa,ruim
+muito alta,muito alta,2,4,media,alta,ruim
+alta,baixa,4, mais,media,media,boa
+baixa,media,3, mais,media,baixa,ruim
+alta,alta,2,2,media,baixa,ruim
+alta,alta,2,4,grande,baixa,ruim
+baixa,muito alta,2, mais,media,alta,boa
+muito alta,baixa,5 ou mais,2,grande,media,ruim
+muito alta,media,2,4,media,alta,boa
+media,muito alta,4,4,pequeno,alta,boa
+media,muito alta,2,4,media,alta,boa
+baixa,media,5 ou mais, mais,media,media,boa
+alta,baixa,2,2,pequeno,media,ruim
+alta,muito alta,5 ou mais,2,media,alta,ruim
+baixa,muito alta,3,4,pequeno,alta,boa
+media,muito alta,3, mais,grande,alta,boa
+alta,muito alta,2, mais,media,alta,ruim
+alta,alta,5 ou mais, mais,pequeno,baixa,ruim
+muito alta,baixa,4,2,grande,baixa,ruim
+alta,muito alta,3,2,pequeno,alta,ruim
+baixa,media,3, mais,pequeno,media,boa
+muito alta,muito alta,3,4,grande,alta,ruim
+media,media,5 ou mais, mais,grande,alta,boa
+media,media,3, mais,media,media,boa
+muito alta,muito alta,4, mais,pequeno,alta,ruim
+alta,baixa,2,4,media,media,ruim
+media,alta,5 ou mais, mais,grande,alta,boa
+media,muito alta,5 ou mais,2,media,alta,ruim
+media,media,2, mais,grande,alta,boa
+alta,muito alta,3,2,pequeno,baixa,ruim
+muito alta,media,4,2,grande,media,ruim
+baixa,media,2, mais,pequeno,alta,ruim
+media,baixa,4, mais,pequeno,media,boa
+muito alta,baixa,5 ou mais,4,media,alta,boa
+alta,muito alta,4,2,media,baixa,ruim
+media,muito alta,4,2,media,media,ruim
+baixa,media,4,4,grande,alta,boa
+muito alta,alta,2, mais,pequeno,media,ruim
+alta,media,2,4,pequeno,media,ruim
+baixa,baixa,5 ou mais, mais,media,alta,boa
+alta,alta,2,2,media,alta,ruim
+media,media,4,2,media,baixa,ruim
+media,muito alta,5 ou mais,4,pequeno,baixa,ruim
+baixa,muito alta,2, mais,pequeno,media,ruim
+media,media,4, mais,grande,baixa,ruim
+media,media,5 ou mais,4,media,baixa,ruim
+alta,baixa,3,2,pequeno,media,ruim
+media,baixa,3, mais,grande,baixa,ruim
+media,baixa,5 ou mais,2,grande,media,ruim
+alta,baixa,3,2,media,baixa,ruim
+baixa,muito alta,5 ou mais,4,media,alta,boa
+media,muito alta,2, mais,pequeno,baixa,ruim
+media,baixa,5 ou mais, mais,grande,alta,boa
+baixa,baixa,3, mais,grande,alta,boa
+muito alta,baixa,2,4,pequeno,baixa,ruim
+alta,media,4, mais,grande,baixa,ruim
+media,media,2, mais,pequeno,alta,ruim
+alta,media,4,4,grande,baixa,ruim
+baixa,media,4,2,media,media,ruim
+muito alta,baixa,4, mais,grande,media,boa
+muito alta,muito alta,4,4,media,alta,ruim
+media,media,4,2,media,media,ruim
+alta,muito alta,3,2,grande,media,ruim
+baixa,baixa,5 ou mais,2,grande,media,ruim
+media,alta,2,4,grande,baixa,ruim
+muito alta,muito alta,3, mais,grande,alta,ruim
+alta,muito alta,3,2,grande,alta,ruim
+alta,muito alta,3, mais,grande,baixa,ruim
+alta,media,5 ou mais,4,media,media,boa
+baixa,muito alta,5 ou mais, mais,grande,alta,boa
+alta,media,2,4,grande,baixa,ruim
+baixa,muito alta,3,2,media,baixa,ruim
+baixa,alta,4, mais,pequeno,alta,boa
+muito alta,muito alta,5 ou mais, mais,media,baixa,ruim
+alta,alta,3, mais,media,media,boa
+muito alta,media,2,2,pequeno,media,ruim
+alta,muito alta,3, mais,pequeno,alta,ruim
+baixa,media,4,4,media,alta,boa
+baixa,alta,5 ou mais,2,pequeno,media,ruim
+baixa,alta,2, mais,grande,alta,boa
+media,media,4,2,pequeno,media,ruim
+baixa,alta,4, mais,media,alta,boa
+alta,alta,5 ou mais,2,pequeno,baixa,ruim
+baixa,media,5 ou mais, mais,media,baixa,ruim
+muito alta,media,4,2,media,media,ruim
+media,media,5 ou mais,2,media,media,ruim
+muito alta,baixa,3,4,grande,baixa,ruim
+baixa,alta,3,4,media,media,boa
+baixa,baixa,5 ou mais, mais,pequeno,media,boa
+baixa,baixa,5 ou mais,4,grande,media,boa
+alta,muito alta,3,4,media,alta,ruim
+alta,alta,5 ou mais,2,grande,media,ruim
+media,alta,4, mais,grande,baixa,ruim
+baixa,baixa,5 ou mais,2,media,alta,ruim
+alta,muito alta,5 ou mais,4,media,alta,ruim
+alta,baixa,2, mais,pequeno,alta,ruim
+alta,muito alta,4,2,media,alta,ruim
+baixa,baixa,5 ou mais,4,pequeno,baixa,ruim
+alta,alta,4,2,grande,media,ruim
+muito alta,muito alta,4, mais,grande,media,ruim
+baixa,baixa,5 ou mais,2,pequeno,media,ruim
+media,alta,5 ou mais,4,pequeno,baixa,ruim
+baixa,alta,2,4,grande,baixa,ruim
+muito alta,muito alta,4, mais,media,alta,ruim
+alta,media,3, mais,pequeno,alta,boa
+baixa,alta,3,2,media,baixa,ruim
+alta,muito alta,3,2,grande,baixa,ruim
+alta,alta,4, mais,grande,baixa,ruim
+alta,baixa,4,2,media,baixa,ruim
+baixa,media,2,4,media,media,boa
+alta,alta,2, mais,pequeno,baixa,ruim
+baixa,media,3,2,pequeno,alta,ruim
+alta,media,5 ou mais,2,media,baixa,ruim
+baixa,media,5 ou mais, mais,pequeno,alta,boa
+baixa,muito alta,2, mais,grande,media,boa
+baixa,baixa,4,4,media,alta,boa
+muito alta,baixa,3,2,grande,media,ruim
+alta,alta,5 ou mais,4,grande,baixa,ruim
+alta,media,3, mais,media,alta,boa
+alta,media,4, mais,media,baixa,ruim
+muito alta,muito alta,3,4,media,alta,ruim
+alta,muito alta,3,2,pequeno,media,ruim
+media,baixa,4, mais,grande,alta,boa
+muito alta,alta,3,2,pequeno,baixa,ruim
+baixa,media,3,4,media,baixa,ruim
+media,baixa,4,2,grande,alta,ruim
+muito alta,baixa,3,4,media,media,ruim
+media,alta,5 ou mais, mais,media,alta,boa
+muito alta,alta,5 ou mais,2,media,baixa,ruim
+alta,alta,5 ou mais,2,media,baixa,ruim
+muito alta,baixa,3,2,pequeno,baixa,ruim
+baixa,baixa,2, mais,media,baixa,ruim
+baixa,media,5 ou mais,2,grande,media,ruim
+baixa,media,2,4,grande,alta,boa
+media,muito alta,4,4,pequeno,alta,boa
+muito alta,media,2, mais,grande,alta,boa
+baixa,media,3,4,grande,alta,boa
+alta,baixa,4, mais,grande,baixa,ruim
+muito alta,alta,2,4,pequeno,media,ruim
+muito alta,baixa,2,4,media,baixa,ruim
+muito alta,alta,3,2,pequeno,media,ruim
+muito alta,alta,4,4,grande,baixa,ruim
+media,media,4,4,media,alta,boa
+baixa,baixa,4,4,pequeno,media,boa
+alta,baixa,2, mais,grande,baixa,ruim
+alta,muito alta,2, mais,pequeno,alta,ruim
+alta,media,2,4,grande,alta,boa
+baixa,media,3,4,media,media,boa
+media,muito alta,4, mais,grande,media,boa
+media,alta,3,4,media,media,ruim
+media,muito alta,4,2,pequeno,baixa,ruim
+muito alta,muito alta,3,4,media,baixa,ruim
+media,alta,5 ou mais, mais,media,alta,boa
+media,media,3, mais,pequeno,baixa,ruim
+baixa,muito alta,3,2,grande,baixa,ruim
+baixa,muito alta,4,4,grande,media,boa
+media,alta,4,2,media,baixa,ruim
+alta,alta,4, mais,pequeno,media,ruim
+alta,baixa,4,4,media,baixa,ruim
+muito alta,alta,2, mais,media,baixa,ruim
+muito alta,muito alta,2,2,pequeno,baixa,ruim
+muito alta,muito alta,3, mais,grande,media,ruim
+baixa,muito alta,2,4,pequeno,baixa,ruim
+alta,alta,5 ou mais,2,grande,media,ruim
+alta,baixa,3,4,pequeno,alta,boa
+muito alta,muito alta,5 ou mais,2,grande,alta,ruim
+baixa,media,4,4,grande,baixa,ruim
+media,muito alta,3, mais,media,baixa,ruim
+media,baixa,5 ou mais, mais,pequeno,alta,boa
+alta,media,3,4,pequeno,baixa,ruim
+alta,baixa,5 ou mais,2,pequeno,baixa,ruim
+alta,media,4,4,pequeno,baixa,ruim
+media,alta,5 ou mais,2,media,alta,ruim
+baixa,baixa,2,2,pequeno,alta,ruim
+media,media,2, mais,media,baixa,ruim
+alta,muito alta,2,4,media,baixa,ruim
+baixa,baixa,5 ou mais, mais,media,alta,boa
+muito alta,baixa,4,2,grande,media,ruim
+media,media,4, mais,media,alta,boa
+muito alta,media,3,4,pequeno,alta,boa
+media,baixa,4,2,media,media,ruim
+muito alta,alta,4,4,media,baixa,ruim
+alta,muito alta,2,2,grande,baixa,ruim
+muito alta,alta,3,2,pequeno,media,ruim
+media,muito alta,5 ou mais, mais,grande,baixa,ruim
+media,muito alta,4,2,grande,alta,ruim
+media,alta,2,4,grande,media,boa
+baixa,muito alta,3, mais,grande,alta,boa
+alta,alta,2,2,grande,baixa,ruim
+alta,muito alta,2,4,grande,alta,ruim
+media,alta,5 ou mais,2,grande,baixa,ruim
+alta,baixa,3, mais,grande,media,boa
+muito alta,alta,5 ou mais,2,grande,baixa,ruim
+alta,muito alta,3,2,media,media,ruim
+muito alta,alta,3,2,media,baixa,ruim
+muito alta,muito alta,4,2,pequeno,media,ruim
+alta,media,4, mais,grande,baixa,ruim
+media,media,4,2,media,media,ruim
+baixa,baixa,2,2,grande,alta,ruim
+alta,muito alta,2,2,media,alta,ruim
+muito alta,alta,4,4,pequeno,baixa,ruim
+muito alta,alta,4,2,media,baixa,ruim
+alta,muito alta,5 ou mais,4,pequeno,media,ruim
+baixa,muito alta,3,2,pequeno,media,ruim
+baixa,media,2, mais,pequeno,baixa,ruim
+muito alta,baixa,4,4,media,alta,boa
+muito alta,baixa,5 ou mais,4,pequeno,media,ruim
+media,alta,4, mais,pequeno,baixa,ruim
+muito alta,alta,3,4,pequeno,media,ruim
+alta,media,4, mais,pequeno,media,ruim
+baixa,baixa,4, mais,media,alta,boa
+muito alta,muito alta,4,4,media,media,ruim
+muito alta,baixa,3,2,media,baixa,ruim
+muito alta,muito alta,2,4,pequeno,media,ruim
+media,media,2,2,grande,media,ruim
+baixa,media,4,4,pequeno,baixa,ruim
+baixa,baixa,3,2,grande,baixa,ruim
+media,muito alta,5 ou mais,2,pequeno,alta,ruim
+muito alta,alta,4,4,grande,alta,ruim
+alta,muito alta,5 ou mais,4,media,baixa,ruim
+media,muito alta,2,4,grande,media,boa
+media,alta,5 ou mais,2,media,baixa,ruim
+baixa,alta,4,2,media,baixa,ruim
+baixa,alta,4,4,pequeno,alta,boa
+media,alta,4, mais,pequeno,baixa,ruim
+muito alta,media,2,4,pequeno,baixa,ruim
+alta,alta,2,4,pequeno,alta,boa
+alta,alta,5 ou mais,2,grande,alta,ruim
+media,baixa,4, mais,pequeno,baixa,ruim
+baixa,media,4,2,pequeno,baixa,ruim
+media,muito alta,2,2,grande,alta,ruim
+media,alta,3, mais,media,alta,boa
+muito alta,media,4, mais,grande,baixa,ruim
+alta,media,2,4,grande,alta,boa
+muito alta,alta,4,4,media,alta,ruim
+muito alta,alta,3, mais,pequeno,alta,ruim
+media,alta,4, mais,media,alta,boa
+muito alta,baixa,5 ou mais,2,pequeno,media,ruim
+baixa,media,2,4,grande,baixa,ruim
+baixa,media,3,2,grande,alta,ruim
+muito alta,baixa,2, mais,pequeno,baixa,ruim
+muito alta,baixa,4,4,media,media,boa
+alta,alta,3,4,grande,media,boa
+muito alta,muito alta,2, mais,grande,baixa,ruim
+media,muito alta,4, mais,grande,alta,boa
+media,media,4,4,grande,baixa,ruim
+alta,baixa,5 ou mais,4,pequeno,media,ruim
+media,alta,2,4,pequeno,baixa,ruim
+muito alta,alta,2, mais,media,media,ruim
+media,alta,4,4,media,media,boa
+alta,baixa,3, mais,grande,alta,boa
+media,media,3,4,grande,alta,boa
+muito alta,baixa,2,4,media,media,ruim
+media,alta,2,4,media,alta,boa
+alta,muito alta,3,4,pequeno,media,ruim
+muito alta,baixa,5 ou mais,4,media,baixa,ruim
+muito alta,media,2,2,pequeno,media,ruim
+media,baixa,5 ou mais,2,pequeno,media,ruim
+media,muito alta,5 ou mais,4,pequeno,media,ruim
+muito alta,baixa,4,2,media,alta,ruim
+alta,alta,4,2,media,alta,ruim
+alta,media,2,2,media,alta,ruim
+baixa,alta,5 ou mais,2,pequeno,media,ruim
+alta,alta,2, mais,pequeno,alta,ruim
+alta,media,4,2,media,alta,ruim
+baixa,baixa,3,4,grande,alta,boa
+muito alta,baixa,4, mais,pequeno,alta,boa
+baixa,muito alta,4, mais,pequeno,baixa,ruim
+baixa,baixa,4,2,media,media,ruim
+media,alta,3,2,media,alta,ruim
+media,media,4,2,pequeno,baixa,ruim
+alta,baixa,2, mais,media,baixa,ruim
+media,media,2, mais,pequeno,media,ruim
+alta,alta,3,4,grande,baixa,ruim
+muito alta,media,3,4,media,media,ruim
+baixa,baixa,5 ou mais,4,media,media,boa
+media,baixa,5 ou mais, mais,grande,media,boa
+media,muito alta,4,4,grande,alta,boa
+alta,muito alta,5 ou mais,4,pequeno,alta,ruim
+alta,alta,3,2,pequeno,baixa,ruim
+media,media,3,4,pequeno,baixa,ruim
+muito alta,alta,3,2,pequeno,baixa,ruim
+baixa,media,5 ou mais,2,grande,media,ruim
+alta,muito alta,2,4,media,alta,ruim
+baixa,media,5 ou mais, mais,pequeno,media,boa
+baixa,baixa,4,2,grande,media,ruim
+baixa,alta,4,2,grande,baixa,ruim
+baixa,muito alta,2,2,media,baixa,ruim
+media,muito alta,4, mais,grande,alta,boa
+muito alta,muito alta,2,4,media,alta,ruim
+muito alta,baixa,4, mais,pequeno,media,ruim
+media,alta,3,2,media,media,ruim
+media,baixa,2,2,media,baixa,ruim
+media,baixa,4,2,grande,baixa,ruim
+alta,baixa,3, mais,grande,baixa,ruim
+muito alta,muito alta,5 ou mais,4,media,baixa,ruim
+muito alta,alta,5 ou mais,4,grande,media,ruim
+muito alta,baixa,2, mais,grande,baixa,ruim
+alta,alta,4,2,pequeno,baixa,ruim
+alta,alta,3,2,media,alta,ruim
+alta,media,5 ou mais,2,grande,media,ruim
+muito alta,baixa,3, mais,grande,media,boa
+baixa,baixa,5 ou mais,2,grande,media,ruim
+muito alta,muito alta,2, mais,media,media,ruim
+baixa,media,4,2,grande,alta,ruim
+alta,alta,3,2,media,alta,ruim
+baixa,media,3,2,grande,baixa,ruim
+alta,baixa,3, mais,grande,alta,boa
+alta,baixa,5 ou mais,4,grande,alta,boa
+alta,muito alta,5 ou mais, mais,grande,baixa,ruim
+muito alta,alta,2,2,pequeno,baixa,ruim
+muito alta,alta,5 ou mais,2,pequeno,baixa,ruim
+media,alta,2,4,grande,media,boa
+baixa,baixa,5 ou mais,2,pequeno,alta,ruim
+alta,baixa,4,2,pequeno,alta,ruim
+alta,baixa,2,4,pequeno,media,ruim
+muito alta,muito alta,3, mais,media,media,ruim
+alta,alta,2,2,pequeno,baixa,ruim
+baixa,media,2,2,pequeno,baixa,ruim
+baixa,muito alta,2, mais,grande,alta,boa
+muito alta,muito alta,4,2,pequeno,baixa,ruim
+media,baixa,3,4,media,baixa,ruim
+alta,media,3,4,pequeno,baixa,ruim
+media,alta,3,4,grande,alta,boa
+muito alta,media,4,2,pequeno,baixa,ruim
+alta,media,4,4,media,alta,boa
+media,media,3, mais,media,media,boa
+muito alta,muito alta,2,2,pequeno,alta,ruim
+media,muito alta,3,4,pequeno,media,ruim
+media,baixa,3,4,grande,baixa,ruim
+alta,muito alta,4, mais,pequeno,alta,ruim
+baixa,media,3,2,media,media,ruim
+media,alta,2,2,media,alta,ruim
+alta,muito alta,5 ou mais,4,media,media,ruim
+muito alta,media,4,2,media,baixa,ruim
+alta,alta,5 ou mais, mais,media,alta,boa
+media,alta,2,4,pequeno,alta,boa
+baixa,muito alta,3,4,media,baixa,ruim
+media,alta,2, mais,grande,alta,boa
+muito alta,muito alta,2,2,grande,alta,ruim
+media,muito alta,4, mais,grande,alta,boa
+media,muito alta,2, mais,grande,media,boa
+media,media,4, mais,pequeno,baixa,ruim
+alta,media,4, mais,pequeno,baixa,ruim
+muito alta,media,2, mais,grande,alta,boa
+muito alta,media,5 ou mais,2,pequeno,alta,ruim
+baixa,alta,3,2,media,alta,ruim
+muito alta,media,4,2,grande,baixa,ruim
+baixa,baixa,2,4,grande,baixa,ruim
+alta,media,5 ou mais,2,media,media,ruim
+alta,media,3,2,grande,media,ruim
+muito alta,alta,5 ou mais,2,grande,baixa,ruim
+muito alta,muito alta,4,2,grande,baixa,ruim
+baixa,baixa,4, mais,media,alta,boa
+alta,baixa,4,4,grande,media,boa
+media,muito alta,4, mais,media,media,boa
+alta,muito alta,3,2,grande,media,ruim
+muito alta,baixa,3,2,grande,media,ruim
+muito alta,media,5 ou mais,4,grande,media,boa
+muito alta,alta,3, mais,pequeno,alta,ruim
+media,alta,3,2,grande,media,ruim
+media,alta,5 ou mais,4,grande,baixa,ruim
+alta,media,3,2,grande,baixa,ruim
+alta,baixa,2,4,pequeno,alta,boa
+muito alta,baixa,5 ou mais, mais,grande,alta,boa
+baixa,baixa,3, mais,media,alta,boa
+alta,baixa,4,4,pequeno,baixa,ruim
+alta,media,2, mais,grande,alta,boa
+alta,baixa,3,2,pequeno,alta,ruim
+baixa,muito alta,3,4,pequeno,baixa,ruim
+alta,media,3, mais,grande,alta,boa
+media,baixa,4, mais,grande,baixa,ruim
+media,baixa,3,2,pequeno,media,ruim
+alta,baixa,2,4,media,media,ruim
+muito alta,alta,3,2,media,media,ruim
+baixa,baixa,3,4,grande,baixa,ruim
+baixa,media,4, mais,grande,media,boa
+muito alta,media,4,2,pequeno,alta,ruim
+alta,baixa,2,2,pequeno,alta,ruim
+alta,alta,3, mais,media,media,boa
+baixa,media,4, mais,media,baixa,ruim
+alta,muito alta,5 ou mais,2,media,baixa,ruim
+media,baixa,3, mais,grande,baixa,ruim
+alta,muito alta,5 ou mais,4,media,baixa,ruim
+muito alta,baixa,3,4,media,media,ruim
+baixa,alta,4,4,media,media,boa
+media,baixa,4, mais,pequeno,media,boa
+alta,alta,4,2,pequeno,media,ruim
+alta,alta,3,2,media,alta,ruim
+baixa,muito alta,2,4,pequeno,baixa,ruim
+media,baixa,3,2,media,alta,ruim
+baixa,baixa,3,4,media,alta,boa
+muito alta,muito alta,3, mais,pequeno,alta,ruim
+muito alta,muito alta,2,2,grande,alta,ruim
+muito alta,baixa,2,4,media,baixa,ruim
+muito alta,baixa,5 ou mais, mais,grande,alta,boa
+alta,media,4,4,pequeno,media,ruim
+muito alta,baixa,5 ou mais, mais,media,alta,boa
+baixa,baixa,3,4,media,media,boa
+muito alta,media,2,2,pequeno,alta,ruim
+muito alta,alta,3, mais,grande,alta,ruim
+media,media,4, mais,grande,alta,boa
+baixa,muito alta,4,2,media,media,ruim
+baixa,media,3,4,pequeno,alta,boa
+muito alta,media,5 ou mais,4,media,baixa,ruim
+muito alta,alta,5 ou mais,2,media,baixa,ruim
+baixa,media,3,4,pequeno,alta,boa
+alta,baixa,2, mais,media,media,ruim
+muito alta,alta,5 ou mais, mais,grande,media,ruim
+media,media,2, mais,media,baixa,ruim
+media,media,3,4,pequeno,alta,boa
+alta,baixa,3,4,grande,baixa,ruim
+alta,alta,3,2,media,media,ruim
+alta,alta,2,4,grande,media,boa
+alta,muito alta,2,4,media,media,ruim
+muito alta,alta,3, mais,media,alta,ruim
+muito alta,baixa,4, mais,media,alta,boa
+media,alta,3, mais,grande,baixa,ruim
+muito alta,alta,5 ou mais,2,pequeno,baixa,ruim
+alta,baixa,3,2,pequeno,baixa,ruim
+media,media,5 ou mais,2,media,alta,ruim
+muito alta,alta,2,2,pequeno,media,ruim
+baixa,muito alta,5 ou mais,4,grande,media,boa
+muito alta,muito alta,5 ou mais,4,pequeno,baixa,ruim
+alta,muito alta,5 ou mais,4,grande,baixa,ruim
+alta,baixa,4,2,pequeno,baixa,ruim
+baixa,media,2,4,media,alta,boa
+media,baixa,3,4,pequeno,alta,boa
+baixa,alta,2,2,grande,media,ruim
+alta,baixa,3,2,media,baixa,ruim
+baixa,alta,4,4,pequeno,media,boa
+muito alta,alta,2,4,pequeno,media,ruim
+baixa,muito alta,2,2,pequeno,alta,ruim
+alta,alta,3,2,grande,media,ruim
+baixa,alta,5 ou mais, mais,media,baixa,ruim
+baixa,media,2, mais,grande,alta,boa
+media,muito alta,5 ou mais,2,pequeno,baixa,ruim
+muito alta,alta,4,4,media,baixa,ruim
+alta,muito alta,4,4,grande,alta,ruim
+media,baixa,5 ou mais,4,grande,baixa,ruim
+alta,muito alta,5 ou mais, mais,grande,alta,ruim
+baixa,alta,4,4,grande,media,boa
+muito alta,media,4,4,pequeno,baixa,ruim
+alta,media,3,4,media,media,ruim
+alta,muito alta,3,4,pequeno,baixa,ruim
+muito alta,muito alta,2, mais,grande,alta,ruim
+muito alta,alta,4, mais,media,media,ruim
+media,media,4,2,media,alta,ruim
+muito alta,muito alta,5 ou mais, mais,pequeno,media,ruim
+muito alta,media,4, mais,grande,alta,boa
+media,alta,4,2,grande,media,ruim
+media,baixa,4, mais,grande,baixa,ruim
+muito alta,alta,2, mais,pequeno,media,ruim
+baixa,alta,4, mais,grande,alta,boa
+muito alta,alta,3, mais,media,baixa,ruim
+muito alta,muito alta,3, mais,media,media,ruim
+alta,muito alta,5 ou mais,2,grande,alta,ruim
+baixa,alta,3,4,media,alta,boa
+muito alta,muito alta,2,4,pequeno,baixa,ruim
+baixa,muito alta,4, mais,media,baixa,ruim
+muito alta,baixa,5 ou mais, mais,pequeno,baixa,ruim
+muito alta,alta,3,2,media,media,ruim
+baixa,baixa,4,2,media,media,ruim
+media,muito alta,3,4,media,alta,boa
+baixa,baixa,3,2,media,baixa,ruim
+baixa,media,5 ou mais, mais,media,media,boa
+baixa,media,4,4,pequeno,media,boa
+muito alta,media,4,4,media,baixa,ruim
+alta,alta,3, mais,pequeno,baixa,ruim
+alta,media,3,2,grande,baixa,ruim
+muito alta,baixa,3,4,grande,alta,boa
+baixa,muito alta,5 ou mais,4,grande,alta,boa
+alta,muito alta,4,4,grande,media,ruim
+alta,baixa,2,2,grande,baixa,ruim
+baixa,alta,3, mais,grande,alta,boa
+baixa,alta,3,2,media,alta,ruim
+muito alta,muito alta,3,4,media,baixa,ruim
+alta,muito alta,5 ou mais, mais,grande,media,ruim
+alta,media,3, mais,media,media,boa
+muito alta,muito alta,5 ou mais,4,pequeno,media,ruim
+media,baixa,5 ou mais,4,pequeno,media,boa
+baixa,baixa,5 ou mais,2,media,baixa,ruim
+muito alta,alta,5 ou mais,4,grande,alta,ruim
+media,alta,5 ou mais,4,pequeno,baixa,ruim
+muito alta,alta,5 ou mais, mais,grande,media,ruim
+media,alta,3, mais,pequeno,media,ruim
+baixa,alta,5 ou mais,2,pequeno,baixa,ruim
+alta,muito alta,3, mais,grande,baixa,ruim
+muito alta,alta,5 ou mais,2,pequeno,media,ruim
+alta,baixa,4,2,grande,media,ruim
+media,muito alta,5 ou mais,2,grande,media,ruim
+media,muito alta,3,2,grande,baixa,ruim
+media,alta,3,2,pequeno,media,ruim
+media,muito alta,5 ou mais, mais,grande,media,boa
+baixa,alta,4, mais,media,baixa,ruim
+baixa,alta,2,2,pequeno,alta,ruim
+baixa,baixa,4, mais,grande,baixa,ruim
+baixa,baixa,3,4,grande,alta,boa
+alta,media,4, mais,grande,media,boa
+media,alta,3,2,media,alta,ruim
+muito alta,muito alta,3, mais,pequeno,baixa,ruim
+alta,media,4, mais,pequeno,alta,boa
+muito alta,muito alta,5 ou mais,4,media,alta,ruim
+media,media,4,4,media,baixa,ruim
+alta,media,5 ou mais, mais,pequeno,baixa,ruim
+baixa,alta,2,2,grande,baixa,ruim
+muito alta,media,3,4,grande,media,boa
+muito alta,media,3,2,grande,alta,ruim
+muito alta,media,2, mais,media,baixa,ruim
+muito alta,alta,2,2,pequeno,alta,ruim
+media,baixa,4,2,media,alta,ruim
+muito alta,muito alta,3, mais,grande,media,ruim
+media,alta,3, mais,pequeno,media,ruim
+media,baixa,2,2,pequeno,baixa,ruim
+media,muito alta,4, mais,media,baixa,ruim
+alta,baixa,3, mais,media,alta,boa
+baixa,muito alta,3,4,pequeno,baixa,ruim
+baixa,baixa,4,4,grande,baixa,ruim
+baixa,alta,3,2,grande,media,ruim
+alta,media,2,4,pequeno,alta,boa
+alta,muito alta,2,2,media,media,ruim
+muito alta,muito alta,4,4,media,media,ruim
+baixa,media,4,4,grande,media,boa
+alta,media,5 ou mais,2,grande,baixa,ruim
+alta,alta,2,2,grande,media,ruim
+muito alta,alta,4,4,pequeno,alta,ruim
+media,muito alta,4,2,grande,baixa,ruim
+alta,alta,2,2,grande,alta,ruim
+baixa,alta,4,2,media,alta,ruim
+baixa,baixa,4,2,grande,alta,ruim
+muito alta,media,5 ou mais, mais,grande,alta,boa
+media,media,4,2,grande,baixa,ruim
+baixa,muito alta,5 ou mais,4,pequeno,alta,boa
+media,alta,5 ou mais, mais,grande,media,boa
+muito alta,muito alta,4, mais,grande,baixa,ruim
+media,muito alta,2,2,grande,media,ruim
+media,baixa,4, mais,pequeno,alta,boa
+media,muito alta,5 ou mais,4,grande,baixa,ruim
+baixa,media,4,2,media,media,ruim
+media,alta,2,2,grande,baixa,ruim
+baixa,muito alta,3,4,pequeno,media,ruim
+baixa,baixa,4,4,media,alta,boa
+muito alta,alta,2,2,grande,alta,ruim
+alta,alta,3,4,grande,media,boa
+muito alta,muito alta,2,2,grande,media,ruim
+alta,media,3,4,media,baixa,ruim
+baixa,baixa,4,4,grande,media,boa
+baixa,baixa,2,4,grande,alta,boa
+muito alta,alta,2, mais,media,media,ruim
+media,alta,3, mais,pequeno,baixa,ruim
+alta,alta,4, mais,pequeno,baixa,ruim
+media,muito alta,4,2,pequeno,media,ruim
+media,baixa,5 ou mais,4,pequeno,baixa,ruim
+alta,media,4, mais,pequeno,baixa,ruim
+alta,baixa,5 ou mais,4,pequeno,baixa,ruim
+baixa,baixa,4,2,media,media,ruim
+muito alta,media,3,4,pequeno,alta,boa
+baixa,media,2, mais,grande,baixa,ruim
+muito alta,baixa,3,2,grande,alta,ruim
+muito alta,muito alta,3,2,grande,alta,ruim
+muito alta,media,5 ou mais,4,grande,alta,boa
+alta,baixa,3, mais,pequeno,baixa,ruim
+baixa,muito alta,4,2,pequeno,baixa,ruim
+muito alta,baixa,4,2,pequeno,alta,ruim
+muito alta,media,3,2,grande,alta,ruim
+alta,muito alta,2, mais,media,baixa,ruim
+muito alta,media,5 ou mais,2,media,alta,ruim
+muito alta,muito alta,3,2,media,alta,ruim
+baixa,alta,4,4,pequeno,alta,boa
+media,media,5 ou mais,2,pequeno,media,ruim
+muito alta,alta,3,2,grande,alta,ruim
+baixa,muito alta,4,2,media,media,ruim
+baixa,media,5 ou mais,4,grande,baixa,ruim
+media,muito alta,2,2,pequeno,media,ruim
+baixa,media,4,2,media,alta,ruim
+muito alta,alta,2, mais,grande,baixa,ruim
+alta,baixa,5 ou mais,4,pequeno,media,ruim
+media,alta,5 ou mais, mais,pequeno,baixa,ruim
+alta,media,2,2,media,baixa,ruim
+media,baixa,3,2,media,media,ruim
+media,muito alta,2,4,pequeno,baixa,ruim
+media,alta,4,4,media,media,boa
+baixa,alta,2,4,grande,alta,boa
+baixa,alta,3,4,grande,alta,boa
+baixa,media,3, mais,media,alta,boa
+muito alta,alta,4,2,pequeno,media,ruim
+baixa,media,3,4,grande,baixa,ruim
+alta,muito alta,2,4,pequeno,media,ruim
+muito alta,muito alta,5 ou mais,4,media,alta,ruim
+media,media,5 ou mais,2,media,alta,ruim
+alta,baixa,4,2,pequeno,baixa,ruim
+alta,muito alta,2, mais,pequeno,baixa,ruim
+alta,muito alta,4,2,grande,alta,ruim
+media,muito alta,4, mais,grande,media,boa
+baixa,muito alta,2, mais,grande,baixa,ruim
+media,alta,3, mais,media,media,boa
+alta,media,3,2,pequeno,alta,ruim
+baixa,muito alta,2,4,pequeno,alta,boa
+media,media,3,4,media,alta,boa
+muito alta,baixa,3,2,media,baixa,ruim
+media,media,2, mais,pequeno,baixa,ruim
+media,alta,3,4,pequeno,alta,boa
+alta,media,4, mais,pequeno,media,ruim
+muito alta,media,4, mais,grande,alta,boa
+muito alta,muito alta,4,4,pequeno,baixa,ruim
+alta,alta,3, mais,pequeno,alta,boa
+muito alta,media,5 ou mais,4,media,baixa,ruim
+media,baixa,3, mais,media,alta,boa
+alta,baixa,5 ou mais,2,pequeno,alta,ruim
+baixa,muito alta,3,2,grande,media,ruim
+media,muito alta,2, mais,media,media,ruim
+baixa,muito alta,5 ou mais,2,grande,media,ruim
+baixa,alta,2,4,media,alta,boa
+alta,media,2, mais,grande,alta,boa
+baixa,muito alta,4,4,media,baixa,ruim
+media,baixa,2, mais,grande,alta,boa
+baixa,media,5 ou mais, mais,media,alta,boa
+baixa,alta,4,2,media,baixa,ruim
+alta,muito alta,3,2,pequeno,alta,ruim
+media,muito alta,5 ou mais,4,pequeno,baixa,ruim
+alta,muito alta,5 ou mais,4,pequeno,media,ruim
+baixa,media,2,4,media,media,boa
+alta,media,5 ou mais,4,pequeno,alta,boa
+media,alta,2,4,media,alta,boa
+media,baixa,2,4,media,alta,boa
+alta,alta,4,2,pequeno,baixa,ruim
+alta,baixa,5 ou mais,4,media,baixa,ruim
+muito alta,muito alta,4,4,pequeno,media,ruim
+baixa,alta,2,4,grande,baixa,ruim
+media,baixa,3,4,pequeno,media,boa
+muito alta,muito alta,3, mais,pequeno,alta,ruim
+baixa,media,4,2,pequeno,baixa,ruim
+muito alta,muito alta,3, mais,grande,alta,ruim
+alta,baixa,5 ou mais,4,media,alta,boa
+media,muito alta,5 ou mais,4,pequeno,alta,boa
+media,baixa,2,2,media,baixa,ruim
+media,alta,2,4,grande,baixa,ruim
+muito alta,alta,5 ou mais,2,pequeno,baixa,ruim
+alta,media,5 ou mais,4,grande,alta,boa
+muito alta,alta,3, mais,media,alta,ruim
+alta,muito alta,3,2,pequeno,alta,ruim
+muito alta,alta,2,4,pequeno,alta,ruim
+media,alta,2,2,grande,baixa,ruim
+baixa,alta,5 ou mais,4,media,baixa,ruim
+alta,baixa,4,2,media,baixa,ruim
+baixa,alta,5 ou mais,4,media,media,boa
+alta,media,3, mais,pequeno,media,ruim
+baixa,muito alta,4, mais,media,baixa,ruim
+media,muito alta,4,2,grande,alta,ruim
+muito alta,baixa,3,2,pequeno,media,ruim
+media,media,5 ou mais,4,grande,baixa,ruim
+muito alta,alta,3, mais,pequeno,alta,ruim
+muito alta,muito alta,3, mais,pequeno,alta,ruim
+muito alta,muito alta,3,2,media,alta,ruim
+alta,alta,5 ou mais,4,grande,alta,boa
+media,baixa,4,4,pequeno,baixa,ruim
+muito alta,muito alta,4, mais,media,baixa,ruim
+muito alta,baixa,5 ou mais, mais,grande,media,boa
+muito alta,baixa,2,2,pequeno,alta,ruim
+baixa,muito alta,4, mais,grande,alta,boa
+baixa,muito alta,5 ou mais,2,grande,baixa,ruim
+baixa,muito alta,5 ou mais,4,pequeno,media,ruim
+muito alta,media,4, mais,media,media,boa
+muito alta,muito alta,3,4,grande,baixa,ruim
+muito alta,alta,5 ou mais,2,pequeno,alta,ruim
+alta,alta,2, mais,pequeno,alta,ruim
+media,muito alta,5 ou mais, mais,grande,alta,boa
+baixa,muito alta,3,2,pequeno,baixa,ruim
+alta,muito alta,2,4,grande,baixa,ruim
+alta,baixa,4, mais,media,baixa,ruim
+media,alta,4,2,grande,media,ruim
+muito alta,baixa,4,4,grande,media,boa
+baixa,alta,5 ou mais,4,media,baixa,ruim
+baixa,media,5 ou mais,2,pequeno,media,ruim
+alta,baixa,3,4,pequeno,media,ruim
+media,media,2,2,media,media,ruim
+baixa,muito alta,4, mais,media,baixa,ruim
+muito alta,muito alta,3, mais,grande,baixa,ruim
+muito alta,baixa,2,4,media,media,ruim
+alta,baixa,3, mais,grande,alta,boa
+alta,alta,2, mais,grande,baixa,ruim
+alta,baixa,5 ou mais,2,media,alta,ruim
+media,muito alta,4,2,grande,alta,ruim
+muito alta,muito alta,2,4,grande,baixa,ruim
+alta,media,3,2,pequeno,alta,ruim
+alta,muito alta,5 ou mais,2,grande,media,ruim
+muito alta,baixa,3,2,pequeno,alta,ruim
+muito alta,baixa,2, mais,pequeno,baixa,ruim
+baixa,alta,2, mais,media,media,boa
+alta,baixa,4,2,grande,alta,ruim
+media,muito alta,4,2,media,baixa,ruim
+alta,media,4, mais,media,baixa,ruim
+baixa,alta,5 ou mais, mais,grande,baixa,ruim
+alta,baixa,3, mais,media,alta,boa
+alta,alta,2,2,grande,alta,ruim
+muito alta,alta,4,4,media,alta,ruim
+alta,media,2,4,pequeno,media,ruim
+media,media,2,2,media,media,ruim
+muito alta,alta,5 ou mais,4,pequeno,alta,ruim
+muito alta,muito alta,2, mais,pequeno,media,ruim
+baixa,media,3, mais,grande,media,boa
+muito alta,media,3,2,grande,baixa,ruim
+muito alta,baixa,5 ou mais, mais,grande,baixa,ruim
+media,media,2,2,pequeno,media,ruim
+muito alta,media,3, mais,pequeno,media,ruim
+alta,media,5 ou mais, mais,pequeno,baixa,ruim
+media,alta,2,4,media,baixa,ruim
+alta,muito alta,3, mais,pequeno,baixa,ruim
+alta,baixa,2,2,media,alta,ruim
+media,alta,3,4,grande,alta,boa
+alta,baixa,3,2,grande,baixa,ruim
+muito alta,alta,3,4,grande,alta,ruim
+media,muito alta,5 ou mais,4,pequeno,media,ruim
+muito alta,media,4,4,grande,media,boa
+baixa,baixa,2,4,media,baixa,ruim
+alta,media,5 ou mais,4,media,alta,boa
+muito alta,baixa,4,2,grande,baixa,ruim
+media,baixa,2, mais,media,baixa,ruim
+media,alta,5 ou mais, mais,grande,media,boa
+media,alta,2, mais,grande,alta,boa
+baixa,alta,4,4,media,alta,boa
+media,baixa,5 ou mais,4,grande,media,boa
+media,baixa,4, mais,grande,media,boa
+media,media,3,4,pequeno,baixa,ruim
+alta,alta,5 ou mais,4,media,alta,boa
+alta,baixa,4,2,pequeno,alta,ruim
+baixa,media,3,2,pequeno,alta,ruim
+muito alta,media,5 ou mais, mais,grande,alta,boa
+muito alta,baixa,5 ou mais, mais,pequeno,baixa,ruim
+baixa,muito alta,2,4,pequeno,media,ruim
+media,alta,4,4,media,media,boa
+media,media,4,4,media,media,boa
+baixa,alta,3, mais,media,alta,boa
+baixa,alta,4,4,pequeno,media,boa
+media,muito alta,4, mais,pequeno,media,ruim
+muito alta,media,5 ou mais, mais,pequeno,media,ruim
+baixa,baixa,5 ou mais, mais,grande,baixa,ruim
+alta,alta,4,2,media,media,ruim
+muito alta,muito alta,4, mais,pequeno,alta,ruim
+alta,media,3,2,media,baixa,ruim
+baixa,baixa,3,4,pequeno,alta,boa
+media,muito alta,4, mais,grande,media,boa
